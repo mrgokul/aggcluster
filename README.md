@@ -2,7 +2,7 @@
 
 Agglomerative Hierarchical Clustering done in Python. Supports the following similarity functions
 * cosine
-* euclidian
+* euclidean
 * pearson
 * manhattan
 * tanimoto
@@ -19,6 +19,7 @@ Other useful features include
 * scaling clusters by proportion
 * saving the cluster as a model for classification purposes
 * calculating error metrics - RandIndex and AdjustedRandIndex
+* Dendrogram in D3.js - output as a HTML file
 
 ##Example
 
